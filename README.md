@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Lucca!
+
+I'm a software developer at [Iteris](https://www.iteris.com.br/)
 
 <!--
 **LuccaPrado/LuccaPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
