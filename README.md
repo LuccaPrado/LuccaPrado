@@ -1,6 +1,13 @@
-### Hi, I'm Lucca!
-
-I'm a software developer at [Iteris](https://www.iteris.com.br/)
+## GET /api/user/info?username=LuccaPrado
+### Response: 200 OK
+Data:
+```
+{
+"Name": "Lucca Biagi de Paula Prado"
+"username": "LuccaPrado"
+todo: colocar experiências, faculdade e afins
+}
+```
 
 <!--
 **LuccaPrado/LuccaPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div>
   <a href="https://github.com/LuccaPrado">
@@ -26,5 +33,6 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://www.linkedin.com/in/luccaprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 </div>
+-->
