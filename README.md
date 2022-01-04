@@ -17,9 +17,14 @@
    ],
    "experiences":[
       {
+         "company":"Moip",
+         "startDate":"11/2021",
+         "endDate":null
+      },
+      {
          "company":"Iteris",
          "startDate":"08/2018",
-         "endDate":null
+         "endDate":"10/2021"
       },
       {
          "company":"Xmart Solutions",
