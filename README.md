@@ -1,13 +1,10 @@
 ### <div align="center">I'm Lucca, a full-time Backend Java developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Geolocation-Utils](http://www.geolocation-util.com/).  
+- 🔭 I’m currently working on [Cliiq](https://cliiq.com.br/).  
   
 
 - 👨‍🎓I'm graduated in Information security.  
-  
-
-- ⚡ Fun fact: I love to study some different languages like Nim and V!  
   
 
 <br/>  
