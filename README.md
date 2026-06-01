@@ -1,10 +1,7 @@
 ### <div align="center">I'm Lucca, a full-time Backend Java developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Cliiq](https://cliiq.com.br/).  
-  
 
-- 👨‍🎓I'm graduated in Information security.  
   
 
 <br/>  
